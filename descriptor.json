@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "3809ed69-e0ec-4753-998f-117a9ddf40b8",
+    "PackageVersion": "7.8.0",
+    "Name": "CreatioStateMachine",
+    "ModifiedOnUtc": "\/Date(1684275210000)\/",
+    "Maintainer": "Terrasoft",
+    "DependsOn": [{
+      "UId": "422CC048-65AA-8F90-E8ED-7FA6D5AB06B1",
+      "Name": "CrtNUI"
+    }]
+  }
+}

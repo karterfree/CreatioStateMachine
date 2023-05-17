@@ -1,0 +1,22 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "6608b2e1-ee4e-4cae-a207-594c29bb6f0f",
+      "A2": "EntityStateEngineMixin",
+      "A5": "1b540174-2dfe-4dee-ae21-9985404549f1",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "8453ceb3-5495-4dc2-8471-0d87e2621af2",
+      "B8": "8.0.7.3906",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.MODULE,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schemaDifferences:function(){{\n{1}\n}}}};}});",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}

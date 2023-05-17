@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Postpone till" />
+			<Item Name="LocalizableStrings.ChangesHistoryTabCaption.Value" Value="History of changes" />
+			<Item Name="LocalizableStrings.ConvertInPDFErrorMessage.Value" Value="An error occurred while converting to PDF." />
+			<Item Name="LocalizableStrings.CyrillicValidationMessage.Value" Value="Fill out the field in English. You can use a machine translator" />
+			<Item Name="LocalizableStrings.LinkToSlackChannelActionCaption.Value" Value="Link to Slack channel" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="More than one queue element connected to the process. Process Id: {0}" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Attachments and notes" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Notes" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Re-queue" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Unable to re-queue item. Error message: {0}" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Page is not connected to the agent desktop queue element. Action cancelled." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Unable to re-queue item" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Successfully re-queued" />
+			<Item Name="LocalizableStrings.SysSettingsErrorMessage.Value" Value="Please fill in the system settings for converting files to PDF." />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Approvals" />
+		</Items>
+	</Group>
+</Resources>

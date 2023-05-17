@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b683cd43-0769-4430-80a4-f157a015abdd",
+    "Name": "BaseGridDetailV2",
+    "ModifiedOnUtc": "\/Date(1684359698000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Base schema - Detail with list"
+  }
+}
